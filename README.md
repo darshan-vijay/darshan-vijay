@@ -48,12 +48,11 @@ My experience spans across frontend development, backend APIs, data visualizatio
     </td>
     <td>
       <a href="https://www.credly.com/badges/2735a380-f711-470d-8283-5c21cc33e19c/public_url" target="_blank">
-        <img src="https://images.credly.com/size/340x340/images/0b42f63f-4554-4f8c-bb31-3b4fd8f54504/image.png" alt="AWS SAA Badge" width="100" />
+        <img src="./aws-certified-solutions-architect-associate.png" alt="AWS SAA Badge" width="100" />
       </a>
     </td>
   </tr>
 </table>
-
 
 ---
 
