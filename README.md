@@ -36,6 +36,11 @@ My experience spans across frontend development, backend APIs, data visualizatio
 
 ---
 
+📜 Certifications
+<p align="left"> <a href="https://www.credly.com/badges/84fcb137-9f87-4e94-b1bb-651cfe304d82" target="_blank"> <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certification Badge"/> </a> </p>
+
+---
+
 ### 📑 Publications
 
 #### 📰 **IEEE Publication**  
