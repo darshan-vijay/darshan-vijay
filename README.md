@@ -37,10 +37,8 @@ My experience spans across frontend development, backend APIs, data visualizatio
 ---
 
 📜 Certifications
-<p align="left"> <a href="https://www.credly.com/badges/2735a380-f711-470d-8283-5c21cc33e19c/public_url" target="_blank">
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2735a380-f711-470d-8283-5c21cc33e19c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</a>
-</p>
+
+<p align="left"> <a href="https://www.credly.com/badges/2735a380-f711-470d-8283-5c21cc33e19c/public_url" target="_blank"> <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SAA Badge"/> </a> </p>
 
 ---
 
