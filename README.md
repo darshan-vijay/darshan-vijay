@@ -24,23 +24,30 @@ My experience spans across frontend development, backend APIs, data visualizatio
 ---
 
 ### 💡 Key Skills
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,java,js,ts,html,css,mysql,mongodb,redis,react,nodejs,angular,express,docker,kubernetes,terraform,aws,gcp,jenkins,figma)](https://skillicons.dev)
 
-### 📚 Currently Learning
-[![Learning](https://skillicons.dev/icons?i=azure,graphql,prometheus)](https://skillicons.dev)
+#### 💻 Programming Languages & Databases
+[![Skills](https://skillicons.dev/icons?i=py,cpp,c,java,js,ts,html,css,mysql,mongodb,redis)](https://skillicons.dev)
+
+#### 🧩 Full-Stack Tools & Frameworks
+[![Skills](https://skillicons.dev/icons?i=react,angular,nodejs,express,figma,bootstrap)](https://skillicons.dev)
+
+#### ☁️ DevOps & Cloud Platforms
+[![Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,aws,gcp)](https://skillicons.dev)
 
 ---
 
-### ✍️ Publications & Projects
-Check out my insights and write-ups on tech, software architecture, cloud platforms, and research topics:
+### 📑 Publications
 
-<div>
-  <a href="https://medium.com/@darshan-vijayaraghavan">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>
-</div>
+#### 📰 **IEEE Publication**  
+📄 [**A Novel Approach to Diagnose Osteoporosis Using Deep Learning Techniques**](https://ieeexplore.ieee.org/document/9752533)  
+*IEEE Xplore, 2022*
 
-🔗 Featured Projects:
+Osteoporosis is a chronic degenerative disease affecting mostly postmenopausal women and individuals over 50. The paper presents an efficient method to predict osteoporosis risk using DEXA scan images. By applying preprocessing, data augmentation, SMOTE sampling, and training on various CNN/hybrid models, the proposed method achieves:
+- **Accuracy**: 92.05%  
+
+---
+
+### 🔨 Featured Projects
 - **Studious** – A study group platform using React, Node, Redis, GKE, and more.
 - **VISION'21 Website** – National symposium platform with secure payments, used by 2000+ participants.
 
