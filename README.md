@@ -37,7 +37,10 @@ My experience spans across frontend development, backend APIs, data visualizatio
 ---
 
 📜 Certifications
-<p align="left"> <a href="https://www.credly.com/badges/84fcb137-9f87-4e94-b1bb-651cfe304d82" target="_blank"> <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certification Badge"/> </a> </p>
+<p align="left"> <a href="https://www.credly.com/badges/2735a380-f711-470d-8283-5c21cc33e19c/public_url" target="_blank">
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2735a380-f711-470d-8283-5c21cc33e19c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</a>
+</p>
 
 ---
 
@@ -76,6 +79,6 @@ Osteoporosis is a chronic degenerative disease affecting mostly postmenopausal w
 
 ### 📄 Resume
 > [!IMPORTANT]  
-> <a href="[https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing](https://drive.google.com/file/d/1pCTttSVZ2_Rh0sf559Qi_0O7p-OmlgBF/view?usp=sharing)" download>Click here to view my resume</a>
+> <a href="https://drive.google.com/file/d/1pCTttSVZ2_Rh0sf559Qi_0O7p-OmlgBF/view?usp=sharing" download>Click here to view my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=76C7C0&height=120&section=footer" alt="footer"/>
