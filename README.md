@@ -26,7 +26,7 @@ My experience spans across frontend development, backend APIs, data visualizatio
 ### 💡 Key Skills
 
 #### 💻 Programming Languages & Databases
-[![Skills](https://skillicons.dev/icons?i=py,cpp,c,java,js,ts,html,css,mysql,mongodb,redis)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,ts,cpp,c,java,py,html,css,mysql,mongodb,redis)](https://skillicons.dev)
 
 #### 🧩 Full-Stack Tools & Frameworks
 [![Skills](https://skillicons.dev/icons?i=react,angular,nodejs,express,figma,bootstrap)](https://skillicons.dev)
@@ -54,22 +54,23 @@ Osteoporosis is a chronic degenerative disease affecting mostly postmenopausal w
 ---
 
 ### 🌐 Let's Connect
-<div>
-    <a href="https://www.linkedin.com/in/darshan-vijay/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://github.com/darshan-vijay">
-        <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <a href="mailto:davi1493@colorado.edu">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-</div>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/darshan-vijay/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/darshan-vijay" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="mailto:davi1493@colorado.edu" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
 
 ---
 
 ### 📄 Resume
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Click here to view my resume</a>
+> <a href="[https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing](https://drive.google.com/file/d/1pCTttSVZ2_Rh0sf559Qi_0O7p-OmlgBF/view?usp=sharing)" download>Click here to view my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=76C7C0&height=120&section=footer" alt="footer"/>
