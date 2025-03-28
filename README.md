@@ -6,7 +6,7 @@
     If you find something helpful or interesting, give a follow :)
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=76C7C0&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=db7a62&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=76C7C0&width=600&lines=Hi+there%2C+I'm+Darshan+Vijayaraghavan;Full+Stack+Developer+%7C+Cloud+Enthusiast;CS+Grad+Student+at+CU+Boulder" alt="Intro Typing Animation"/>
