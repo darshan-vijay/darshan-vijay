@@ -9,7 +9,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=db7a62&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=76C7C0&width=600&lines=Hi+there%2C+I'm+Darshan+Vijayaraghavan;Full+Stack+Developer+%7C+Cloud+Enthusiast;CS+Grad+Student+at+CU+Boulder" alt="Intro Typing Animation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=db7a62&width=600&lines=Hi+there%2C+I'm+Darshan+Vijayaraghavan;Full+Stack+Developer+%7C+Cloud+Enthusiast;CS+Grad+Student+at+CU+Boulder" alt="Intro Typing Animation"/>
 </a>
 
 <div>
@@ -93,4 +93,4 @@ Osteoporosis is a chronic degenerative disease affecting mostly postmenopausal w
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/file/d/1pCTttSVZ2_Rh0sf559Qi_0O7p-OmlgBF/view?usp=sharing" download>Click here to view my resume</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=76C7C0&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=db7a62&height=120&section=footer" alt="footer"/>
