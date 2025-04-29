@@ -16,14 +16,14 @@
     <img src="./assets/about_darshan.gif" alt="About Me Terminal GIF"/>
 </div>
 
-### 🚀 About Me
+### About Me
 I'm a passionate Full Stack Developer and Cloud Computing enthusiast with 3 years of industry experience. Currently pursuing my Master’s in Computer Science at the University of Colorado Boulder, I bring a strong foundation in system design, cloud infrastructure, and agile development.
 
 My experience spans across frontend development, backend APIs, data visualization, DevOps, and cloud orchestration. I enjoy building scalable, resilient, and user-friendly applications.
 
 ---
 
-### 💡 Key Skills
+### Key Skills
 
 #### 💻 Programming Languages & Databases
 [![Skills](https://skillicons.dev/icons?i=js,ts,cpp,c,java,py,html,css,mysql,mongodb,redis)](https://skillicons.dev)
@@ -36,7 +36,7 @@ My experience spans across frontend development, backend APIs, data visualizatio
 
 ---
 
-### 📜 Certifications
+### Certifications
 
 <table>
   <tr>
@@ -56,7 +56,7 @@ My experience spans across frontend development, backend APIs, data visualizatio
 
 ---
 
-### 📑 Publications
+### Publications
 
 #### 📰 **IEEE Publication**  
 📄 [**A Novel Approach to Diagnose Osteoporosis Using Deep Learning Techniques**](https://ieeexplore.ieee.org/document/9752533)  
@@ -67,7 +67,7 @@ Osteoporosis is a chronic degenerative disease affecting mostly postmenopausal w
 
 ---
 
-### 🔨 Featured Projects
+### Featured Projects
 - **Studious** – A study group platform using React, Node, Redis, GKE, and more.
 - **VISION'21 Website** – National symposium platform with secure payments, used by 2000+ participants.
 
