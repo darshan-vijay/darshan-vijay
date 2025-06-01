@@ -89,7 +89,7 @@ Osteoporosis is a chronic degenerative disease affecting mostly postmenopausal w
 
 ---
 
-### 📄 Resume
+### Resume
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/file/d/1pCTttSVZ2_Rh0sf559Qi_0O7p-OmlgBF/view?usp=sharing" download>Click here to view my resume</a>
 
