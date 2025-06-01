@@ -25,13 +25,13 @@ My experience spans across frontend development, backend APIs, data visualizatio
 
 ### Key Skills
 
-#### 💻 Programming Languages & Databases
+#### Programming Languages & Databases
 [![Skills](https://skillicons.dev/icons?i=js,ts,cpp,c,java,py,html,css,mysql,mongodb,redis)](https://skillicons.dev)
 
-#### 🧩 Full-Stack Tools & Frameworks
+#### Full-Stack Tools & Frameworks
 [![Skills](https://skillicons.dev/icons?i=react,angular,nodejs,express,figma,bootstrap)](https://skillicons.dev)
 
-#### ☁️ DevOps & Cloud Platforms
+#### DevOps & Cloud Platforms
 [![Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,aws,gcp)](https://skillicons.dev)
 
 ---
@@ -73,7 +73,7 @@ Osteoporosis is a chronic degenerative disease affecting mostly postmenopausal w
 
 ---
 
-### 🌐 Let's Connect
+### Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/darshan-vijay/" target="_blank">
