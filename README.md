@@ -68,8 +68,10 @@ Osteoporosis is a chronic degenerative disease affecting mostly postmenopausal w
 ---
 
 ### Featured Projects
-- **Studious** – A study group platform using React, Node, Redis, GKE, and more.
-- **VISION'21 Website** – National symposium platform with secure payments, used by 2000+ participants.
+
+- **Quiz Generator** – An automated quiz creation tool that scrapes documents from the web, generates multiple-choice questions using large language models (LLMs), and publishes quizzes to Google Forms via API.
+- **Studious** – A web application that helps students form and manage study groups based on courses, schedules, and shared interests. Users can create profiles, set availability, and automatically get matched with compatible study partners.
+- **Plant Doc** – An AI-powered chatbot that helps users diagnose plant diseases and get treatment advice. Users can describe symptoms and upload leaf images, and the system uses a combination of a trained CNN model and a language model to identify the disease and recommend solutions. 
 
 ---
 
